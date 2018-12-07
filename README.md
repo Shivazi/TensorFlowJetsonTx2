@@ -6,3 +6,8 @@ https://docs.nvidia.com/deeplearning/dgx/install-tf-jetsontx2/index.html
 https://jkjung-avt.github.io/tf-trt-models/
 
 https://github.com/jkjung-avt/tf_trt_models
+
+```
+import tensorflow as tf
+print(tf.__version__)
+```
