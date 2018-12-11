@@ -11,3 +11,7 @@ https://github.com/jkjung-avt/tf_trt_models
 import tensorflow as tf
 print(tf.__version__)
 ```
+# onboard camera 
+```
+gst-launch-1.0 -ev nvcamerasrc ! nvvidconv ! ximagesink
+```
