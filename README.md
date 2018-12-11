@@ -15,3 +15,6 @@ print(tf.__version__)
 ```
 gst-launch-1.0 -ev nvcamerasrc ! nvvidconv ! ximagesink
 ```
+https://software.intel.com/en-us/node/722575
+https://medium.com/@petehouston/play-two-webcams-in-mjpg-format-simultaneously-using-gstreamer-2302ca91504
+https://medium.com/@petehouston/play-webcam-using-gstreamer-9b7596e4e181
